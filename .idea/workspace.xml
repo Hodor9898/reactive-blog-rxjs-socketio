@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ec582c6-eb32-4816-8483-38370249529e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ReactiveClient/src/scripts/posts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReactiveClient/src/scripts/socket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReactiveClient/src/store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactiveClient/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/ReactiveClient/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactiveClient/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ReactiveClient/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactiveClient/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ReactiveClient/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactiveClient/src/scripts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/ReactiveClient/src/scripts/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactiveClient/src/styles/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/ReactiveClient/src/styles/index.scss" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="2117493764">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="2" />
+          <entry key="js" value="9" />
+          <entry key="scss" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="2" />
+          <entry key="JavaScript" value="9" />
+          <entry key="SCSS" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="517" />
+          <entry key="js" value="3796" />
+          <entry key="scss" value="166" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="519" />
+          <entry key="JavaScript" value="3794" />
+          <entry key="SCSS" value="166" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ReactiveClient/src/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="20" column="32" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="32" />
+              <folding>
+                <element signature="n#head#0;n#!!top" />
+                <element signature="n#style#0;n#body#0;n#!!top" />
+                <element signature="e#374#401#0" />
+                <element signature="n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#!!top" />
+                <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#!!top" />
+                <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#!!top" />
+                <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#!!top" />
+                <element signature="n#a#0;n#div#2;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#!!top" />
+                <element signature="n#div#3;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#!!top" />
+                <element signature="n#button#0;n#div#3;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#!!top" />
+                <element signature="n#button#0;n#main#0;n#div#0;n#body#0;n#!!top" />
+                <element signature="n#dialog#0;n#body#0;n#!!top" />
+                <element signature="n#form#0;n#dialog#0;n#body#0;n#!!top" />
+                <element signature="n#div#0;n#form#0;n#dialog#0;n#body#0;n#!!top" />
+                <element signature="n#div#1;n#form#0;n#dialog#0;n#body#0;n#!!top" />
+                <element signature="n#div#2;n#form#0;n#dialog#0;n#body#0;n#!!top" />
+                <element signature="n#div#1;n#body#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ReactiveClient/node_modules/socket.io/lib/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="40" column="3" selection-start-line="40" selection-start-column="3" selection-end-line="40" selection-end-column="3" />
+              <folding>
+                <element signature="e#15#46#0" />
+                <element signature="e#623#649#0" />
+                <element signature="e#677#712#0" />
+                <element signature="n#!!doc;n#Server#0" />
+                <element signature="n#!!block;n#Server#0" />
+                <element signature="e#1086#1123#0" />
+                <element signature="e#1514#1724#0" />
+                <element signature="e#1776#2765#0" />
+                <element signature="e#2143#2744#0" />
+                <element signature="e#2153#2721#0" />
+                <element signature="e#2733#2740#0" />
+                <element signature="e#2768#2962#0" />
+                <element signature="e#3006#3588#0" />
+                <element signature="e#3118#3276#0" />
+                <element signature="e#3208#3238#0" />
+                <element signature="e#3304#3571#0" />
+                <element signature="e#3400#3502#0" />
+                <element signature="e#3514#3567#0" />
+                <element signature="e#3591#3642#0" />
+                <element signature="e#3662#3818#0" />
+                <element signature="e#3821#3874#0" />
+                <element signature="e#3917#4526#0" />
+                <element signature="e#3956#4200#0" />
+                <element signature="e#3994#4194#0" />
+                <element signature="e#4048#4186#0" />
+                <element signature="e#4235#4263#0" />
+                <element signature="e#4292#4317#0" />
+                <element signature="e#4375#4418#0" />
+                <element signature="e#4424#4508#0" />
+                <element signature="e#4529#4773#0" />
+                <element signature="e#4834#5252#0" />
+                <element signature="e#4957#5239#0" />
+                <element signature="e#5018#5049#0" />
+                <element signature="e#5096#5233#0" />
+                <element signature="e#5123#5147#0" />
+                <element signature="e#5153#5227#0" />
+                <element signature="e#5255#5410#0" />
+                <element signature="e#5447#5546#0" />
+                <element signature="e#5549#5704#0" />
+                <element signature="e#5744#5942#0" />
+                <element signature="e#5841#5925#0" />
+                <element signature="e#5880#5921#0" />
+                <element signature="e#5945#6118#0" />
+                <element signature="e#6158#6245#0" />
+                <element signature="e#6248#6434#0" />
+                <element signature="e#6507#7670#0" />
+                <element signature="e#6541#6709#0" />
+                <element signature="e#6768#6796#0" />
+                <element signature="e#6828#7027#0" />
+                <element signature="e#6948#6998#0" />
+                <element signature="e#7269#7323#0" />
+                <element signature="e#7463#7651#0" />
+                <element signature="e#7469#7531#0" />
+                <element signature="e#7673#7767#0" />
+                <element signature="e#7818#8124#0" />
+                <element signature="e#8127#8239#0" />
+                <element signature="e#8285#8831#0" />
+                <element signature="e#8569#8827#0" />
+                <element signature="e#8610#8648#0" />
+                <element signature="e#8686#8721#0" />
+                <element signature="e#8727#8823#0" />
+                <element signature="e#8772#8817#0" />
+                <element signature="e#8834#8964#0" />
+                <element signature="e#9009#9581#0" />
+                <element signature="e#9013#9055#0" />
+                <element signature="e#9213#9346#0" />
+                <element signature="e#9245#9342#0" />
+                <element signature="e#9584#9718#0" />
+                <element signature="e#9766#10283#0" />
+                <element signature="e#9770#9812#0" />
+                <element signature="e#9970#10103#0" />
+                <element signature="e#10002#10099#0" />
+                <element signature="e#10286#10447#0" />
+                <element signature="e#10489#10593#0" />
+                <element signature="e#10596#10728#0" />
+                <element signature="e#10776#10908#0" />
+                <element signature="e#10911#11074#0" />
+                <element signature="e#11116#11804#0" />
+                <element signature="e#11178#11546#0" />
+                <element signature="e#11328#11379#0" />
+                <element signature="e#11385#11479#0" />
+                <element signature="e#11640#11755#0" />
+                <element signature="e#11807#11947#0" />
+                <element signature="e#11986#12251#0" />
+                <element signature="e#12029#12137#0" />
+                <element signature="e#12082#12133#0" />
+                <element signature="e#12186#12222#0" />
+                <element signature="e#12228#12249#0" />
+                <element signature="e#12254#12291#0" />
+                <element signature="e#12365#12423#0" />
+                <element signature="e#12540#12645#0" />
+                <element signature="e#12577#12642#0" />
+                <element signature="e#12687#12885#0" />
+                <element signature="e#12737#12881#0" />
+                <element signature="e#12759#12877#0" />
+                <element signature="e#12889#12919#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ReactiveClient/src/styles/index.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ReactiveClient/src/scripts/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ReactiveClient/src/scripts/socket.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#0#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ReactiveClient/src/store.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ReactiveClient/src/scripts/posts.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ReactiveServer/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>notification</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ReactiveClient" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ReactiveClient/src/styles/index.scss" />
+        <option value="$PROJECT_DIR$/ReactiveServer/server.js" />
+        <option value="$PROJECT_DIR$/ReactiveClient/src/index.html" />
+        <option value="$PROJECT_DIR$/ReactiveClient/src/scripts/index.js" />
+        <option value="$PROJECT_DIR$/ReactiveClient/src/scripts/socket.js" />
+        <option value="$PROJECT_DIR$/ReactiveClient/src/scripts/posts.js" />
+        <option value="$PROJECT_DIR$/ReactiveClient/src/store.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/ReactiveClient/node_modules" />
+    <handled-path value="$PROJECT_DIR$/ReactiveServer/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/ReactiveClient/package.json" />
+      <path value="$PROJECT_DIR$/ReactiveServer/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="65" />
+    <option name="y" value="-4" />
+    <option name="width" value="1855" />
+    <option name="height" value="1084" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="RxjsBlog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RxjsBlog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RxjsBlog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RxjsBlog" type="462c0819:PsiDirectoryNode" />
+              <item name="ReactiveClient" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ec582c6-eb32-4816-8483-38370249529e" name="Default Changelist" comment="" />
+      <created>1562152574381</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562152574381</updated>
+      <workItem from="1562152575485" duration="7955000" />
+      <workItem from="1562230799119" duration="2055000" />
+      <workItem from="1562486845674" duration="8207000" />
+      <workItem from="1562581783472" duration="95000" />
+      <workItem from="1562757472042" duration="1060000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="19372000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25815368" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4997236" visible="true" weight="0.33943966" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5002764" side_tool="true" weight="0.3294979" />
+      <window_info anchor="right" id="SvgViewer" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="PlantUML" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ReactiveServer/index.html" />
+    <entry file="file://$PROJECT_DIR$/ReactiveClient/node_modules/jquery/dist/jquery.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReactiveClient/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="32" />
+          <folding>
+            <element signature="n#head#0;n#!!top" />
+            <element signature="n#style#0;n#body#0;n#!!top" />
+            <element signature="e#374#401#0" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#!!top" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#!!top" />
+            <element signature="n#a#0;n#div#2;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#!!top" />
+            <element signature="n#div#3;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#!!top" />
+            <element signature="n#button#0;n#div#3;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#!!top" />
+            <element signature="n#button#0;n#main#0;n#div#0;n#body#0;n#!!top" />
+            <element signature="n#dialog#0;n#body#0;n#!!top" />
+            <element signature="n#form#0;n#dialog#0;n#body#0;n#!!top" />
+            <element signature="n#div#0;n#form#0;n#dialog#0;n#body#0;n#!!top" />
+            <element signature="n#div#1;n#form#0;n#dialog#0;n#body#0;n#!!top" />
+            <element signature="n#div#2;n#form#0;n#dialog#0;n#body#0;n#!!top" />
+            <element signature="n#div#1;n#body#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReactiveClient/node_modules/socket.io/lib/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="40" column="3" selection-start-line="40" selection-start-column="3" selection-end-line="40" selection-end-column="3" />
+          <folding>
+            <element signature="e#15#46#0" />
+            <element signature="e#623#649#0" />
+            <element signature="e#677#712#0" />
+            <element signature="n#!!doc;n#Server#0" />
+            <element signature="n#!!block;n#Server#0" />
+            <element signature="e#1086#1123#0" />
+            <element signature="e#1514#1724#0" />
+            <element signature="e#1776#2765#0" />
+            <element signature="e#2143#2744#0" />
+            <element signature="e#2153#2721#0" />
+            <element signature="e#2733#2740#0" />
+            <element signature="e#2768#2962#0" />
+            <element signature="e#3006#3588#0" />
+            <element signature="e#3118#3276#0" />
+            <element signature="e#3208#3238#0" />
+            <element signature="e#3304#3571#0" />
+            <element signature="e#3400#3502#0" />
+            <element signature="e#3514#3567#0" />
+            <element signature="e#3591#3642#0" />
+            <element signature="e#3662#3818#0" />
+            <element signature="e#3821#3874#0" />
+            <element signature="e#3917#4526#0" />
+            <element signature="e#3956#4200#0" />
+            <element signature="e#3994#4194#0" />
+            <element signature="e#4048#4186#0" />
+            <element signature="e#4235#4263#0" />
+            <element signature="e#4292#4317#0" />
+            <element signature="e#4375#4418#0" />
+            <element signature="e#4424#4508#0" />
+            <element signature="e#4529#4773#0" />
+            <element signature="e#4834#5252#0" />
+            <element signature="e#4957#5239#0" />
+            <element signature="e#5018#5049#0" />
+            <element signature="e#5096#5233#0" />
+            <element signature="e#5123#5147#0" />
+            <element signature="e#5153#5227#0" />
+            <element signature="e#5255#5410#0" />
+            <element signature="e#5447#5546#0" />
+            <element signature="e#5549#5704#0" />
+            <element signature="e#5744#5942#0" />
+            <element signature="e#5841#5925#0" />
+            <element signature="e#5880#5921#0" />
+            <element signature="e#5945#6118#0" />
+            <element signature="e#6158#6245#0" />
+            <element signature="e#6248#6434#0" />
+            <element signature="e#6507#7670#0" />
+            <element signature="e#6541#6709#0" />
+            <element signature="e#6768#6796#0" />
+            <element signature="e#6828#7027#0" />
+            <element signature="e#6948#6998#0" />
+            <element signature="e#7269#7323#0" />
+            <element signature="e#7463#7651#0" />
+            <element signature="e#7469#7531#0" />
+            <element signature="e#7673#7767#0" />
+            <element signature="e#7818#8124#0" />
+            <element signature="e#8127#8239#0" />
+            <element signature="e#8285#8831#0" />
+            <element signature="e#8569#8827#0" />
+            <element signature="e#8610#8648#0" />
+            <element signature="e#8686#8721#0" />
+            <element signature="e#8727#8823#0" />
+            <element signature="e#8772#8817#0" />
+            <element signature="e#8834#8964#0" />
+            <element signature="e#9009#9581#0" />
+            <element signature="e#9013#9055#0" />
+            <element signature="e#9213#9346#0" />
+            <element signature="e#9245#9342#0" />
+            <element signature="e#9584#9718#0" />
+            <element signature="e#9766#10283#0" />
+            <element signature="e#9770#9812#0" />
+            <element signature="e#9970#10103#0" />
+            <element signature="e#10002#10099#0" />
+            <element signature="e#10286#10447#0" />
+            <element signature="e#10489#10593#0" />
+            <element signature="e#10596#10728#0" />
+            <element signature="e#10776#10908#0" />
+            <element signature="e#10911#11074#0" />
+            <element signature="e#11116#11804#0" />
+            <element signature="e#11178#11546#0" />
+            <element signature="e#11328#11379#0" />
+            <element signature="e#11385#11479#0" />
+            <element signature="e#11640#11755#0" />
+            <element signature="e#11807#11947#0" />
+            <element signature="e#11986#12251#0" />
+            <element signature="e#12029#12137#0" />
+            <element signature="e#12082#12133#0" />
+            <element signature="e#12186#12222#0" />
+            <element signature="e#12228#12249#0" />
+            <element signature="e#12254#12291#0" />
+            <element signature="e#12365#12423#0" />
+            <element signature="e#12540#12645#0" />
+            <element signature="e#12577#12642#0" />
+            <element signature="e#12687#12885#0" />
+            <element signature="e#12737#12881#0" />
+            <element signature="e#12759#12877#0" />
+            <element signature="e#12889#12919#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReactiveClient/src/styles/index.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReactiveClient/src/scripts/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReactiveClient/src/scripts/socket.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReactiveClient/src/scripts/posts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReactiveServer/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReactiveClient/src/store.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

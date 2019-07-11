@@ -1,0 +1,38 @@
+$body-color: blue;
+
+body {
+  color: $body-color;
+
+  .page-content {
+    padding-top: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+}
+
+.demo-card-wide.mdl-card {
+  margin-top: 40px;
+  width: 512px;
+}
+.demo-card-wide > .mdl-card__title {
+  color: #fff;
+  height: 176px;
+  background: url('https://getmdl.io/assets/demos/welcome_card.jpg') center / cover;
+}
+.demo-card-wide > .mdl-card__menu {
+  color: #fff;
+}
+
+.post-timeline {
+  display: flex;
+  flex-direction: column;
+}
+
+
+.md-fab-bottom-right{
+  position: fixed !important;
+  right: 30px;
+  bottom: 30px;
+}
+
